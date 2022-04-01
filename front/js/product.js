@@ -96,5 +96,4 @@ let sendProduct = (data) => {
      });
 };
 
-
 // écoute du champs itemQuantity pour empêcher des erreurs de saisie : chiffre négatif
